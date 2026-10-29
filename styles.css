@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body{
+	padding: 20px;
+}
+.testimonial{
+	border: 1px;
+	background-color: #f5f5f5;
+}
+.testimonial .author{
+	text-align: right;
+	font-family: ;
+}
+.testimonials{
+	border: 1px;
+	background-color: #f5f5f5;
+}
+.testimonials .author{
+	text-align: right;
+}
