@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 body{
 	padding: 20px;
+	background-color: #f5f5f5;
 }
 .testimonial{
 	border: 1px;
@@ -8,7 +9,7 @@ body{
 }
 .testimonial .author{
 	text-align: right;
-	font-family: ;
+	font-family: italic;
 }
 .testimonials{
 	border: 1px;
@@ -16,4 +17,5 @@ body{
 }
 .testimonials .author{
 	text-align: right;
+	font-family: italic;
 }
